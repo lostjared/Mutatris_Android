@@ -1,0 +1,7 @@
+
+    <RelativeLayout android:id="@+id/relativeLayout1" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+        <Spinner android:id="@+id/spin02" android:layout_width="fill_parent" android:layout_height="wrap_content" android:entries="@array/blockspeed" android:prompt="@string/speedprompt" />
+        <ImageView android:contentDescription="Game Logo" android:layout_height="fill_parent" android:id="@+id/imageView1" android:src="@drawable/start"  android:layout_width="fill_parent" android:layout_below="@+id/spin02" />
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Start A New Game" android:id="@+id/button1" android:layout_alignParentBottom="true" />
+        <TextView android:text="Visit http://lostsidedead.com" android:textAppearance="?android:attr/textAppearanceSmall" android:id="@+id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20px" android:layout_toRightOf="@+id/button1" android:layout_alignTop="@+id/button1" android:layout_alignBottom="@+id/button1" android:linksClickable="true" android:autoLink="all"></TextView>    
+    </RelativeLayout>

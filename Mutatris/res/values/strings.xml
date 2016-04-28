@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello"></string>
+    <string name="app_name">Mutatris For Android.</string>
+    <string-array name="blockspeed">
+    <item>Easy Difficulty</item>
+    <item>Medium Difficulty</item>
+    <item>Hard Difficulty</item>
+    </string-array>
+    <string name="speedprompt">Select Game Difficulty</string>
+</resources>
