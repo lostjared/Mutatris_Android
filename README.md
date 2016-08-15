@@ -1,4 +1,11 @@
 # Mutatris for Android
+
+
+![ScreenShot](http://lostsidedead.biz/droid/mutatrisdroid1.png "screenshot")
+
+![ScreenShot]http://lostsidedead.biz/droid/mutatrisdroid2.png "screenshot")
+
+
 Version of my game Mutatris for Android using OpenGL ES.
 Just another project I worked on to practice.
 
